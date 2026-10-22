@@ -53,3 +53,7 @@ I plan to explore individual-stock market breadth and compare equal-weighted and
 ## Disclaimer
 
 This is an educational project for learning and portfolio development. It is not investment advice.
+
+Linkedin profile URL: www.linkedin.com/in/akshayjantwal
+
+
